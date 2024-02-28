@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map.Entry;
 import java.util.StringTokenizer;
 
-public class Map_07 {
+public class Map_08 {
 
 	public static void main(String[] args) throws IOException  {
 		
